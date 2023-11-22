@@ -1,2 +1,2 @@
 # Oliver
-Oliver eats an apple, manzana, pomme, maça
+Oliver eats an apple, manzana, pomme, maça, ringo
